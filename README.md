@@ -20,7 +20,7 @@ This portfolio is currently a work in progress and will be updated regularly unt
 
 #### About Me Features:
 
-- A components without state that displays information regarding myself and useful tidbits about the portfolio
+- A component without state that displays information regarding myself and useful tidbits about the portfolio
 
 #### Reddit Browser Features:
 
